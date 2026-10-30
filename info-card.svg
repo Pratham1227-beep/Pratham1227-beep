@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 372" width="490" height="372" role="img" aria-label="Pratham info card">
+<style>.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}.cur{animation:blink 1s steps(2) infinite}@keyframes blink{50%{opacity:0}}</style>
+<rect width="490" height="372" rx="10" fill="#0d1117"/>
+<rect width="490" height="30" rx="10" fill="#161b22"/><rect y="20" width="490" height="10" fill="#161b22"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/><circle cx="36" cy="15" r="5" fill="#ffbd2e"/><circle cx="54" cy="15" r="5" fill="#27c93f"/>
+<text x="245.0" y="19" text-anchor="middle" font-size="11" fill="#6e7681" font-family="ui-monospace,Menlo,Consolas,'DejaVu Sans Mono',monospace">neofetch — pratham@amtics</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13">
+<text class="l" x="24" y="62" style="animation-delay:0.15s" xml:space="preserve"><tspan fill="#39d353" font-weight="bold">pratham@amtics</tspan></text>
+<text class="l" x="24" y="80" style="animation-delay:0.37s" xml:space="preserve"><tspan fill="#6e7681">────────────────────────────────────────</tspan></text>
+<text class="l" x="24" y="104" style="animation-delay:0.59s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">OS     </tspan><tspan fill="#c9d1d9">B.Tech · AI / ML</tspan></text>
+<text class="l" x="24" y="128" style="animation-delay:0.81s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Uni    </tspan><tspan fill="#c9d1d9">AMTICS · Uka Tarsadia University</tspan></text>
+<text class="l" x="24" y="152" style="animation-delay:1.03s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Loc    </tspan><tspan fill="#c9d1d9">Surat, Gujarat, India</tspan></text>
+<text class="l" x="24" y="176" style="animation-delay:1.25s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Role   </tspan><tspan fill="#c9d1d9">Secretary · ACM AMTICS Chapter '26</tspan></text>
+<text class="l" x="24" y="200" style="animation-delay:1.47s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Stack  </tspan><tspan fill="#c9d1d9">Python · JavaScript · Streamlit</tspan></text>
+<text class="l" x="24" y="224" style="animation-delay:1.69s" xml:space="preserve"><tspan fill="#58a6ff" font-weight="bold">Focus  </tspan><tspan fill="#c9d1d9">Machine learning · applied AI</tspan></text>
+<text class="l" x="24" y="254" style="animation-delay:1.91s" xml:space="preserve"><tspan fill="#d2a8ff" font-weight="bold">Highlights</tspan></text>
+<text class="l" x="24" y="278" style="animation-delay:2.13s" xml:space="preserve"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">product-substitution-system</tspan><tspan fill="#6e7681"> — knowledge-graph reasoning</tspan></text>
+<text class="l" x="24" y="299" style="animation-delay:2.35s" xml:space="preserve"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">ai-study-pal</tspan><tspan fill="#6e7681"> — AI study assistant</tspan></text>
+<text class="l" x="24" y="320" style="animation-delay:2.57s" xml:space="preserve"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">test-score-predictor</tspan><tspan fill="#6e7681"> — classic ML</tspan></text>
+<g class="l" style="animation-delay:2.79s"><rect x="24" y="340" width="18" height="14" rx="3" fill="#ff5f56"/><rect x="46" y="340" width="18" height="14" rx="3" fill="#ffbd2e"/><rect x="68" y="340" width="18" height="14" rx="3" fill="#27c93f"/><rect x="90" y="340" width="18" height="14" rx="3" fill="#58a6ff"/><rect x="112" y="340" width="18" height="14" rx="3" fill="#d2a8ff"/><rect x="134" y="340" width="18" height="14" rx="3" fill="#39d353"/><rect x="156" y="340" width="18" height="14" rx="3" fill="#c9d1d9"/><rect x="178" y="340" width="18" height="14" rx="3" fill="#6e7681"/></g>
+<rect class="cur" x="206" y="339" width="8" height="16" fill="#39d353"/>
+</g></svg>
