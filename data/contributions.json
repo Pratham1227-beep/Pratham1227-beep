@@ -1,8 +1,8 @@
 {
  "user": "Pratham1227-beep",
- "total": 119,
- "current_streak": 22,
- "longest_streak": 22,
+ "total": 120,
+ "current_streak": 23,
+ "longest_streak": 23,
  "best_day": {
   "date": "2025-12-10",
   "count": 15,
@@ -21,44 +21,9 @@
   "2026-08": 0,
   "2026-09": 41,
   "2026-10": 6,
-  "2026-11": 38
+  "2026-11": 39
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1876,6 +1841,11 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
