@@ -1,8 +1,8 @@
 {
  "user": "Pratham1227-beep",
- "total": 134,
- "current_streak": 25,
- "longest_streak": 25,
+ "total": 135,
+ "current_streak": 26,
+ "longest_streak": 26,
  "best_day": {
   "date": "2025-12-10",
   "count": 15,
@@ -21,7 +21,7 @@
   "2026-08": 0,
   "2026-09": 41,
   "2026-10": 6,
-  "2026-11": 53
+  "2026-11": 54
  },
  "days": [
   {
@@ -1856,6 +1856,11 @@
   },
   {
    "date": "2026-11-24",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-25",
    "count": 0,
    "level": 0
   }
